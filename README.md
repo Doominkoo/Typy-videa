@@ -1,6 +1,6 @@
 # Typy-videa
 
-Prezentace obsahuje většinu formátů videí od .AVI až po .3GPP  
+Prezentace obsahuje většinu formátů videí od .AVI až po .VOB 
 Cílem prezentace je nějakým způsobem rozšířit povědomí o formátech videa a zároveň říct nějaké zakladní informace  
 Obsah Prezentace:  
 1. AVI  
